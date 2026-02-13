@@ -1,2 +1,2 @@
 # dotfiles
-My Dotfiles for Kali Linux please do not use it.
+My Dotfiles for Linux please do not use it.
